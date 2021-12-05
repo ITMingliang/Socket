@@ -1,0 +1,10 @@
+F:\Code\Socket\Socket\SocketClient\bin\Debug\SocketClient.exe.config
+F:\Code\Socket\Socket\SocketClient\bin\Debug\SocketClient.exe
+F:\Code\Socket\Socket\SocketClient\bin\Debug\SocketClient.pdb
+F:\Code\Socket\Socket\SocketClient\obj\Debug\SocketClient.fm_server.resources
+F:\Code\Socket\Socket\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+F:\Code\Socket\Socket\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+F:\Code\Socket\Socket\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+F:\Code\Socket\Socket\SocketClient\obj\Debug\SocketClient.exe
+F:\Code\Socket\Socket\SocketClient\obj\Debug\SocketClient.pdb
+F:\Code\Socket\Socket\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache

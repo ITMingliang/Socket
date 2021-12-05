@@ -1,0 +1,10 @@
+F:\Code\Socket\Socket\SocketServer\bin\Debug\SocketServer.exe.config
+F:\Code\Socket\Socket\SocketServer\bin\Debug\SocketServer.exe
+F:\Code\Socket\Socket\SocketServer\bin\Debug\SocketServer.pdb
+F:\Code\Socket\Socket\SocketServer\obj\Debug\SocketServer.Form1.resources
+F:\Code\Socket\Socket\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+F:\Code\Socket\Socket\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+F:\Code\Socket\Socket\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+F:\Code\Socket\Socket\SocketServer\obj\Debug\SocketServer.exe
+F:\Code\Socket\Socket\SocketServer\obj\Debug\SocketServer.pdb
+F:\Code\Socket\Socket\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
